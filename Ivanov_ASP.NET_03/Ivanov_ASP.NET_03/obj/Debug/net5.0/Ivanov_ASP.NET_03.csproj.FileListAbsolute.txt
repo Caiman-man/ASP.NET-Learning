@@ -1,0 +1,320 @@
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\appsettings.Development.json
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\appsettings.json
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\Ivanov_ASP.NET_03.exe
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\Ivanov_ASP.NET_03.deps.json
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\Ivanov_ASP.NET_03.runtimeconfig.json
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\Ivanov_ASP.NET_03.runtimeconfig.dev.json
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\Ivanov_ASP.NET_03.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\ref\Ivanov_ASP.NET_03.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\Ivanov_ASP.NET_03.pdb
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\Ivanov_ASP.NET_03.Views.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\Ivanov_ASP.NET_03.Views.pdb
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\Humanizer.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Ivanov_ASP.NET_03.csproj.AssemblyReference.cache
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Ivanov_ASP.NET_03.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Ivanov_ASP.NET_03.AssemblyInfoInputs.cache
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Ivanov_ASP.NET_03.AssemblyInfo.cs
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Ivanov_ASP.NET_03.csproj.CoreCompileInputs.cache
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Ivanov_ASP.NET_03.MvcApplicationPartsAssemblyInfo.cache
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Ivanov_ASP.NET_03.RazorAssemblyInfo.cache
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Ivanov_ASP.NET_03.RazorAssemblyInfo.cs
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\staticwebassets\Ivanov_ASP.NET_03.StaticWebAssets.Manifest.cache
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\staticwebassets\Ivanov_ASP.NET_03.StaticWebAssets.xml
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\scopedcss\bundle\Ivanov_ASP.NET_03.styles.css
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Ivanov_ASP.NET_03.TagHelpers.input.cache
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Ivanov_ASP.NET_03.TagHelpers.output.cache
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Ivanov_ASP.NET_03.RazorCoreGenerate.cache
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Ivanov_ASP.NET_03.RazorTargetAssemblyInfo.cache
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Ivanov_ASP.NET_03.RazorTargetAssemblyInfo.cs
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Ivanov_ASP.NET_03.Views.pdb
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Ivanov_ASP.NET_03.csproj.CopyComplete
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Ivanov_ASP.NET_03.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\ref\Ivanov_ASP.NET_03.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Ivanov_ASP.NET_03.pdb
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Ivanov_ASP.NET_03.genruntimeconfig.cache
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Razor\Views\Actors\Create.cshtml.g.cs
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Razor\Views\Actors\Delete.cshtml.g.cs
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Razor\Views\Actors\Details.cshtml.g.cs
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Razor\Views\Actors\Edit.cshtml.g.cs
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Razor\Views\Actors\Index.cshtml.g.cs
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Razor\Views\Movies\Create.cshtml.g.cs
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Razor\Views\Movies\Delete.cshtml.g.cs
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Razor\Views\Movies\Details.cshtml.g.cs
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Razor\Views\Movies\Edit.cshtml.g.cs
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Razor\Views\Movies\Index.cshtml.g.cs
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Razor\Views\Actors\_ViewStart.cshtml.g.cs
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Razor\Views\Movies\_ViewStart.cshtml.g.cs
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Razor\Views\Shared\_Layout_ActorsAndMovies.cshtml.g.cs
+D:\Developer\GitHub\ASP.NET_projects\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Razor\Views\Shared\_Layout_old.cshtml.g.cs
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Ivanov_ASP.NET_03.csproj.AssemblyReference.cache
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Ivanov_ASP.NET_03.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Ivanov_ASP.NET_03.AssemblyInfoInputs.cache
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Ivanov_ASP.NET_03.AssemblyInfo.cs
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Ivanov_ASP.NET_03.csproj.CoreCompileInputs.cache
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Ivanov_ASP.NET_03.MvcApplicationPartsAssemblyInfo.cache
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Ivanov_ASP.NET_03.RazorAssemblyInfo.cache
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Ivanov_ASP.NET_03.RazorAssemblyInfo.cs
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Ivanov_ASP.NET_03.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\ref\Ivanov_ASP.NET_03.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Ivanov_ASP.NET_03.pdb
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\appsettings.Development.json
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\appsettings.json
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\Ivanov_ASP.NET_03.exe
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\Ivanov_ASP.NET_03.deps.json
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\Ivanov_ASP.NET_03.runtimeconfig.json
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\Ivanov_ASP.NET_03.runtimeconfig.dev.json
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\Ivanov_ASP.NET_03.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\ref\Ivanov_ASP.NET_03.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\Ivanov_ASP.NET_03.pdb
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\Ivanov_ASP.NET_03.Views.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\Ivanov_ASP.NET_03.Views.pdb
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\Humanizer.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\staticwebassets\Ivanov_ASP.NET_03.StaticWebAssets.Manifest.cache
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\staticwebassets\Ivanov_ASP.NET_03.StaticWebAssets.xml
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\scopedcss\bundle\Ivanov_ASP.NET_03.styles.css
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Ivanov_ASP.NET_03.TagHelpers.input.cache
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Ivanov_ASP.NET_03.TagHelpers.output.cache
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Ivanov_ASP.NET_03.RazorCoreGenerate.cache
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Razor\Views\Actors\Create.cshtml.g.cs
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Razor\Views\Actors\Delete.cshtml.g.cs
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Razor\Views\Actors\Details.cshtml.g.cs
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Razor\Views\Actors\Edit.cshtml.g.cs
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Razor\Views\Actors\Index.cshtml.g.cs
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Razor\Views\Actors\_ViewStart.cshtml.g.cs
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Razor\Views\Movies\Create.cshtml.g.cs
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Razor\Views\Movies\Delete.cshtml.g.cs
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Razor\Views\Movies\Details.cshtml.g.cs
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Razor\Views\Movies\Edit.cshtml.g.cs
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Razor\Views\Movies\Index.cshtml.g.cs
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Razor\Views\Movies\_ViewStart.cshtml.g.cs
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Razor\Views\Shared\_Layout_ActorsAndMovies.cshtml.g.cs
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Razor\Views\Shared\_Layout_old.cshtml.g.cs
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Ivanov_ASP.NET_03.RazorTargetAssemblyInfo.cache
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Ivanov_ASP.NET_03.RazorTargetAssemblyInfo.cs
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Ivanov_ASP.NET_03.Views.pdb
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Ivanov_ASP.NET_03.csproj.CopyComplete
+D:\Developer\14. ASP.NET\ASP.NET_03\Ivanov_ASP.NET_03\Ivanov_ASP.NET_03\obj\Debug\net5.0\Ivanov_ASP.NET_03.genruntimeconfig.cache

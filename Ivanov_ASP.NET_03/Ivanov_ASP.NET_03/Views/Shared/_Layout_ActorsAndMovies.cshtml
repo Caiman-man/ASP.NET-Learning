@@ -1,0 +1,73 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- basic -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!-- mobile metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1">
+    <!-- site metas -->
+    <title>Ivanov DBFirst</title>
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <!-- bootstrap css -->
+    <link rel="stylesheet" href='@Url.Content("~/css/bootstrap.min.css")'>
+    <!-- style css -->
+    <link rel="stylesheet" href='@Url.Content("~/css/style.css")'>
+    <!-- Responsive-->
+    <link rel="stylesheet" href='@Url.Content("~/css/responsive.css")'>
+    <!-- fevicon -->
+    <link rel="icon" href='@Url.Content("~/images/fevicon.png")' type="image/gif" />
+    <!-- Scrollbar Custom CSS -->
+    <link rel="stylesheet" href='@Url.Content("~/css/jquery.mCustomScrollbar.min.css")'>
+    <!--Bootstrap and CSS from Layout_old-->
+    <link rel="stylesheet" href='@Url.Content("~/lib/bootstrap/dist/css/bootstrap.min.css")' />
+    <link rel="stylesheet" href='@Url.Content("~/css/site.css")' />
+</head>
+<!-- body -->
+<body class="main-layout home_page" style="background-image: url(/images/about-bg2.jpg)">
+    <header>
+        <div class="header">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 col logo_section">
+                        <div class="full">
+                            <div class="center-desk">
+                                <div class="logo"> <a asp-area="" asp-controller="Home" asp-action="Index"><img src='@Url.Content("/images/logo.png")' alt="#"></a> </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-9 col-lg-9 col-md-9 col-sm-9">
+                        <div class="menu-area">
+                            <div class="limit-box">
+                                <nav class="main-menu">
+                                    <ul class="menu-area-main">
+                                        <li class="active"><a asp-area="" asp-controller="Home" asp-action="Index">Home</a></li>
+                                        <li><a asp-area="" asp-controller="Actors" asp-action="Index">Actors</a></li>
+                                        <li><a asp-area="" asp-controller="Movies" asp-action="Index">Movies</a></li>
+                                    </ul>
+                                </nav>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <br /><br /><br /><br /><br />
+    <main>
+        <div class="container">
+            <main role="main" class="pb-3" style="color: black">
+                @RenderBody()
+            </main>
+        </div>
+    </main>
+    <script src='@Url.Content("~/lib/jquery/dist/jquery.min.js")'></script>
+    <script src='@Url.Content("~/lib/bootstrap/dist/js/bootstrap.bundle.min.js")'></script>
+    <script src='@Url.Content("~/js/site.js")' asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

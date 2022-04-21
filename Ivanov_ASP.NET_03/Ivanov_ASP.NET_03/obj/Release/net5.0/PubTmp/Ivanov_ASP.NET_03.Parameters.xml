@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="u1643234.plsk.regruhosting.ru" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\Developer\\GitHub\\ASP\.NET_projects\\Ivanov_ASP\.NET_03\\Ivanov_ASP\.NET_03\\obj\\Release\\net5\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

@@ -1,0 +1,82 @@
+﻿@model Ivanov_ASP.NET_04.ViewModels.ActorsViewModel
+
+@{
+    ViewBag.Title = "Actors - JQuery";
+}
+
+<h2>Actors</h2>
+
+<form action="" method="post">
+    <div class="form-group col-4 p-0">
+        @Html.DropDownListFor(m => m.Countries, new SelectList(Model.Countries, "Name", "Name"), "Select country", new { @class = "form-control" })
+    </div>
+
+    <script type="text/javascript">
+
+        //передача JSON при помощи JQuery по методу POST
+        $('#Countries').change(function (e) {
+
+            // получить значение выпадающего списка при помощи JQuery
+            var cr = $('#Countries').val();
+
+            // подача Ajax-запроса на сервер при помощи JQuery
+            $.ajax({
+                url: '@Url.Action("ActorsListJson", "Actors")',
+                method: "POST",
+                data: JSON.stringify({
+                    country: cr 
+                }),
+                dataType: 'json',
+                contentType: 'application/json',
+                cache: false,
+                processData: true,
+                success: function (data) {
+                    console.log(data);
+
+                    // получить ссылку на таблицу с результатами
+                    var table = $('#actorsTable');
+
+                    // удалить все старые строки
+                    table.find("tbody tr").remove();
+
+                    // перебрать коллекцию в Json и создать новые строки таблицы на их основе
+                    data.forEach(function (actor) {
+                        table.append("<tr><td>" + actor.Name + "</td><td>" + actor.Age + "</td><td>" + actor.Birthdate + "</td><td>" + actor.ACountry + "</td><td>" + actor.Photo + "</td></tr>");
+                    });
+                }
+            })
+        });
+
+    </script>
+</form>
+
+<br />
+
+<div id="results" class="form-group">
+    <table id="actorsTable" class="table table-bordered table-hover">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Age</th>
+                <th>Birthdate</th>
+                <th>ACountry</th>
+                <th>Photo</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var actor in Model.Actors)
+            {
+            <tr>
+                <td>@actor.Name</td>
+                <td>@actor.Age</td>
+                <td>@actor.Birthdate</td>
+                <td>@actor.ACountry</td>
+                <td>
+                    @{ string photoPath = @"../" + actor.Photo; }
+                    <img src="@photoPath" alt="logo" height="100" />
+                </td>
+            </tr>
+            }
+        </tbody>
+    </table>
+</div>
